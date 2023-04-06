@@ -20,3 +20,16 @@ Após verificar o status do repositório e identificar que existem artefatos pen
 git add <arquivo>
 git commit -m "Mensagem"
 ```
+
+## Como verificar o histório de mudanças ("commits") do repositório
+```bash
+git log
+```
+
+## Como verificar as mudanças de um arquivo no repositório
+```
+git diff
+git diff <branch>
+git diff <commit_hash>
+git diff <hash1..hash2>
+```
