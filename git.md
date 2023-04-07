@@ -1,4 +1,4 @@
-# Introduçao ao Git
+# Introdução ao Git
 
 ## Criar um novo repositório local vazio
 Na linha de comando do seu Linux digite o que segue:
